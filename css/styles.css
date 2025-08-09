@@ -318,6 +318,7 @@ img {
 
 .team-social-link svg {
   fill: var(--cloud);
+  fill:#f4f4fd;
   width: 16px;
   height: 16px;
 }
@@ -461,6 +462,7 @@ img {
 }
 .footer-social-link svg {
   fill: var(--cloud);
+  fill:#f4f4fd;
   width: 24px;
   height: 24px;
 }
